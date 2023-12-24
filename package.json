@@ -1,0 +1,17 @@
+{
+  "name": "@djsv13/fetcher",
+  "version": "1.0.0",
+  "description": "A utility for fetching data in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": ["fetch", "http", "axios"],
+  "author": "GrimmDev",
+  "license": "ISC",
+  "private": false,
+  "homepage": "https://github.com/myogeshchavan97/github-repos-search",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
